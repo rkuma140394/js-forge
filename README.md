@@ -8,6 +8,7 @@ A complete JavaScript interpreter written from scratch in Python. No external de
 ## 🚀 Features
 
 ### Core Language Support
+
 - ✅ Variable declarations (`let`, `const`, `var`)
 - ✅ Primitive types (`number`, `string`, `boolean`, `null`, `undefined`)
 - ✅ Objects and Arrays
@@ -29,12 +30,15 @@ A complete JavaScript interpreter written from scratch in Python. No external de
 - ✅ Short-circuit evaluation (`&&`, `||`)
 
 ### Array Methods
+
 `push()`, `pop()`, `shift()`, `unshift()`, `slice()`, `splice()`, `concat()`, `includes()`, `indexOf()`, `sort()`, `reverse()`, `join()`, `map()`, `filter()`, `reduce()`, `find()`, `some()`, `every()`, `forEach()`
 
 ### String Methods
+
 `replace()`, `replaceAll()`, `substring()`, `slice()`, `split()`, `trim()`, `toUpperCase()`, `toLowerCase()`, `includes()`, `startsWith()`, `endsWith()`, `indexOf()`, `charAt()`, `charCodeAt()`, `length`
 
 ### Built-in Objects
+
 - **`console`**: `log()`, `error()`, `warn()`, `info()`
 - **`Math`**: `floor()`, `ceil()`, `round()`, `random()`, `max()`, `min()`, `abs()`, `pow()`, `sqrt()`, `sin()`, `cos()`, `tan()`, `log()`, `exp()`, `trunc()`, `sign()`, plus constants (`PI`, `E`, etc.)
 - **`Date`**: Constructor, `now()`, `getTime()`, `getFullYear()`, `getMonth()`, `getDate()`, `getDay()`, `getHours()`, `getMinutes()`, `getSeconds()`, `toString()`
@@ -62,39 +66,44 @@ js-forge/
 ## 🛠️ How to Run
 
 ### Requirements
+
 - Python 3.8+
 - No external dependencies required!
 
 ### Run a JavaScript file
+
 ```bash
 python main.py tests/test1.js
 ```
 
 ### Execute code directly
+
 ```bash
 python main.py -c "console.log('Hello, World!');"
 ```
 
 ### Interactive REPL
+
 ```bash
 python main.py -i
 ```
 
 ### Run all test cases
+
 ```bash
 python main.py --test
 ```
 
 ## 🏆 Hackathon Test Cases
 
-| Test Case | Status | Points |
-|-----------|--------|--------|
-| TC-1: Odd/Even Checker | ✅ Pass | 20 |
-| TC-2: Triangle Pattern | ✅ Pass | 20 |
-| TC-3: Armstrong Number | ✅ Pass | 20 |
-| TC-4: Array Reverse | ✅ Pass | 20 |
-| TC-5: String Palindrome | ✅ Pass | 20 |
-| **TOTAL** | **100/100** | **100** |
+| Test Case               | Status      | Points  |
+| ----------------------- | ----------- | ------- |
+| TC-1: Odd/Even Checker  | ✅ Pass     | 20      |
+| TC-2: Triangle Pattern  | ✅ Pass     | 20      |
+| TC-3: Armstrong Number  | ✅ Pass     | 20      |
+| TC-4: Array Reverse     | ✅ Pass     | 20      |
+| TC-5: String Palindrome | ✅ Pass     | 20      |
+| **TOTAL**               | **100/100** | **100** |
 
 ## 🎯 Innovation Highlights
 
@@ -111,6 +120,7 @@ python main.py --test
 Built for Thunder Hackathon 2.0. All code is original work.
 
 ---
-**Author**: [Your Name]  
-**GitHub**: [Your GitHub Repo Link]  
-**X Post**: [Your X Post Link]
+
+**Author**: Rohit kumar  
+**GitHub**: (https://github.com/rkuma140394/js-forge.git)  
+**X Post**: (https://x.com/Rohitkumarf8nd/status/2066011687384494249)
